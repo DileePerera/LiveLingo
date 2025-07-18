@@ -20,9 +20,9 @@ composer install
 php artisan serve
 ```
 
-## Frontend Setup
+## Backend Setup
 
-Follow these steps to set up and run the frontend of LiveLingo.
+Follow these steps to set up and run the backend of LiveLingo.
 
 ### Step 1: Create Virtual Environmet and activate
 Run the following commands based on your operating system:
